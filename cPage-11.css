@@ -1,0 +1,135 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 272px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 95px;
+  min-height: 95px;
+  margin: 70px auto 0 263px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  width: 55px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: -87px 263px 0 393px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  width: 615px;
+  margin: 39px auto 31px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    margin-left: 162px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-right: 162px;
+    margin-left: 295px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 46px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    margin-left: 54px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 54px;
+    margin-left: 184px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 43px;
+    margin-left: 53px;
+    margin-right: 53px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3.75rem;
+    margin-top: -80px;
+    margin-right: 0;
+    margin-left: 129px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 49px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 338px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 2.25rem;
+    margin-top: 20px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 340px;
+    margin-bottom: 20px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 458px;
+}
+
+.u-section-2 .u-form-1 {
+  height: 342px;
+  width: 570px;
+  margin: 58px auto;
+}
+
+.u-section-2 .u-form-group-1 {
+  width: 100%;
+}
+
+.u-section-2 .u-form-group-2 {
+  width: 100%;
+}
+
+.u-section-2 .u-form-group-3 {
+  width: 100%;
+}
+
+.u-section-2 .u-form-group-4 {
+  width: 100%;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-form-1 {
+    width: 340px;
+  }
+}
